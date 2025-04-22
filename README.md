@@ -1,4 +1,4 @@
 # ChatBot
-Created a ChatBot using Html , CSS and JavaScript
-Author <br>
+Created a ChatBot using Html , CSS and JavaScript<br>
+
 <h2>Archit Vale</h2>
